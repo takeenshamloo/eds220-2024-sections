@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# To ignore data folder on git add
+data/
+
 # C extensions
 *.so
 
